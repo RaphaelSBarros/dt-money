@@ -39,6 +39,22 @@
       "type": "outcome",
       "createdAt": "2024-10-17T17:03:40.474Z",
       "id": 5
+    },
+    {
+      "description": "Internet",
+      "price": 100,
+      "category": "Contas",
+      "type": "outcome",
+      "createdAt": "2024-10-17T18:21:32.747Z",
+      "id": 6
+    },
+    {
+      "description": "Salário",
+      "price": 10,
+      "category": "Salário",
+      "type": "income",
+      "createdAt": "2024-10-17T18:22:08.586Z",
+      "id": 7
     }
   ]
 }
